@@ -35,7 +35,7 @@ const App = () => {
   }, [productsData]);
 
   return (
-    <div className="App">
+    <div>
       <DataContext.Provider value={{ productsData, products }}>
         <Navbar />
         <MainRouter />
