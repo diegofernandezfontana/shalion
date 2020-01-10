@@ -17,7 +17,7 @@ npm start
 To run build: in the ~directory run the following.
 
 ```
-npm install -g serve (this is the local server)
+npm install -g serve (this is the local server -> -g is option to install globally)
 npm run build
 serve -s build
 ```
