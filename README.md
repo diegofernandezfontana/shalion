@@ -4,6 +4,8 @@ This test was made with Create react app.
 
 ## Installation & Usage.
 
+[Repo](https://github.com/diegofernandezfontana/shalion)
+
 To run development mode:
 
 ```
@@ -15,7 +17,8 @@ npm start
 To run build: in the ~directory run the following.
 
 ```
-npm install -g serve
+npm install -g serve (this is the local server)
+npm run build
 serve -s build
 ```
 
